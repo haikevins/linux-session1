@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+
+echo 'How old are you?'
+
+read age
+
+if [ $age -lt 20 ]
+then
+	echo 'you young!'
+else 
+	echo 'you older!'
+fi
+
