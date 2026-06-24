@@ -1,4 +1,4 @@
-## Nội dung tổng quan
+## Nội dung
 
 | #  | Topic                                 | Nội dung chính                                                                                | Thực hành                                                                                                 |
 | -- | ------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -20,3 +20,5 @@
 | 16 | **Dynamic / Static Library**          | Thư viện tĩnh `.a`, thư viện động `.so`, linking compile-time/runtime, ưu nhược điểm          | Viết thư viện `.a`, `.so`, gọi hàm từ chương trình chính, link bằng `gcc`                                 |
 | 17 | **Makefile**                          | Target, dependency, command, biến trong Makefile, rule build nhiều file C                     | Viết Makefile, tách compile/link, dùng biến, thêm rule `clean`                                            |
 | 18 | **CMake**                             | CMake, khác biệt với Makefile, `CMakeLists.txt`, target, include path, source files, library  | Viết `CMakeLists.txt`, build bằng `cmake` và `make`, dùng `target_link_libraries`, tạo build folder riêng |
+
+## Cấu trúc repo
