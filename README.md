@@ -22,3 +22,81 @@
 | 18 | **CMake**                             | CMake, khác biệt với Makefile, `CMakeLists.txt`, target, include path, source files, library  | Viết `CMakeLists.txt`, build bằng `cmake` và `make`, dùng `target_link_libraries`, tạo build folder riêng |
 
 ## Cấu trúc repo
+
+├── notes
+│   ├── topic-01
+│   ├── topic-02
+│   ├── topic-03
+│   │   └── systemcalls
+│   ├── topic-04
+│   ├── topic-05
+│   ├── topic-06
+│   ├── topic-07
+│   ├── topic-08
+│   ├── topic-09
+│   ├── topic-10
+│   ├── topic-11
+│   ├── topic-12
+│   ├── topic-13
+│   ├── topic-14
+│   ├── topic-15
+│   ├── topic-16
+│   ├── topic-17
+│   └── topic-18
+└── practices
+    ├── topic-01
+    ├── topic-02
+    │   └── mydir
+    │       └── dir1
+    ├── topic-03
+    │   ├── close
+    │   ├── create
+    │   ├── dup
+    │   ├── exercise
+    │   │   ├── cat
+    │   │   └── copy
+    │   ├── lseek
+    │   ├── open
+    │   ├── read
+    │   └── write
+    ├── topic-04
+    │   ├── filelink
+    │   └── stat
+    ├── topic-05
+    │   ├── fork
+    │   └── get_process_info
+    ├── topic-06
+    ├── topic-07
+    │   ├── execl
+    │   ├── exercise
+    │   │   ├── exercise1
+    │   │   ├── exercise2
+    │   │   └── exercise3
+    │   ├── exit
+    │   ├── fork
+    │   ├── program_life_cycle
+    │   └── wait
+    ├── topic-08
+    │   ├── exercise1
+    │   └── exercise2
+    ├── topic-09
+    │   ├── exercise
+    │   │   ├── exercise1
+    │   │   └── exercise2
+    │   ├── thread_cancel
+    │   ├── thread_condition
+    │   ├── thread_create
+    │   ├── thread_detached
+    │   ├── thread_key
+    │   └── thread_mutexes
+    ├── topic-10
+    │   ├── thread_mutex
+    │   └── thread_sem
+    ├── topic-11
+    │   └── login_daemon
+    ├── topic-12
+    │   └── client_sever
+    ├── topic-13
+    ├── topic-14
+    ├── topic-15
+    └── topic-16
