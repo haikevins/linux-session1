@@ -111,6 +111,6 @@ linux-session1/
 
 | Thư mục                 | Mô tả                                                            |
 | ----------------------- | ---------------------------------------------------------------- |
-| `notes/`                | Chứa ghi chú lý thuyết cho từng topic trong Session 1            |
+| `notes/`                | Chứa ghi chú lý thuyết cho từng topic trong session 1            |
 | `practices/`            | Chứa source code và bài thực hành tương ứng với từng topic       |
-| `topic-01` → `topic-18` | Các topic theo lộ trình Session 1                                |
+| `topic-01` → `topic-18` | Các topic theo lộ trình session 1                                |
